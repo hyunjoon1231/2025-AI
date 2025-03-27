@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>css 시작</title>
+</head>
+<body>
+    <h3 style="color:rgba(202, 90, 25, 0.605); background-color:blue; width: 350px ;height:200px; "     >css 시작</h3>
+
+    <h2  style="border: 3px solid red; border-radius: 10px   "    >다음 css</h2>
+
+    <h1 style="background-color:skyblue;  padding:40px; margin: 30px; text-align:center "></h1>
+
+    <h1>야ㅓㅏㅗ아ㅓ어  <span style="background-color: red">어엉넝넝</span>    래ㅑㄷ랴라라</h1>
+
+</body>
+</html>
